@@ -10,7 +10,7 @@
       "android": {
         "buildType": "apk"
       },
-      "node": "18.20.4",
+      "node": "20.19.4",
       "env": {
         "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
       }
@@ -20,7 +20,7 @@
       "android": {
         "buildType": "apk"
       },
-      "node": "18.20.4",
+      "node": "20.19.4",
       "env": {
         "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
       }
@@ -29,7 +29,7 @@
       "android": {
         "buildType": "apk"
       },
-      "node": "18.20.4",
+      "node": "20.19.4",
       "env": {
         "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
       }
