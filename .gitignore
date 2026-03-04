@@ -1,5 +1,9 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# BMAD method files (local only)
+_bmad/
+_bmad-output/
+
 # dependencies
 node_modules/
 
