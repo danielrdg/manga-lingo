@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MangaLingo",
-    "slug": "mangalingo",
+    "slug": "manga-reader",
     "version": "1.0.0",
     "orientation": "default",
     "scheme": "mangalingo",
